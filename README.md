@@ -1,4 +1,4 @@
-# Workflows and Integration Strategies
+# Workflows and Integration Strategie
 This assignment will incentivize you to get familiar with the different GitHub workflow strategies for:
 - integrating/merging pull requests and
 - establishing traceability between commits, tasks and pull requests
